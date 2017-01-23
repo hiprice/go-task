@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go-task&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../yanse" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../oauth2test" />
+      <root url="file://$PROJECT_DIR$/../../../x" />
+      <root url="file://$PROJECT_DIR$/../../../servicea" />
+      <root url="file://$PROJECT_DIR$/../../../simi" />
+      <root url="file://$PROJECT_DIR$/../../../test" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../yanse" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../oauth2test" />
+      <root url="file://$PROJECT_DIR$/../../../x" />
+      <root url="file://$PROJECT_DIR$/../../../servicea" />
+      <root url="file://$PROJECT_DIR$/../../../simi" />
+      <root url="file://$PROJECT_DIR$/../../../test" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
