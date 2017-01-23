@@ -1,0 +1,4 @@
+DB_HOST="123.56.120.16:3306"
+DB_NAME="test"
+DB_USER="etrip1"
+DB_PASSWORD="etrip!2017"
