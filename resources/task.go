@@ -6,8 +6,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
-	"github.com/rorikurniadi/go-task/libs"
-	"github.com/rorikurniadi/go-task/models"
+	"github.com/hiprice/go-task/libs"
+	"github.com/hiprice/go-task/models"
 )
 
 // NewUserStorage initializes the storage

@@ -3,7 +3,7 @@ package resources
 import (
 	"time"
 
-	"github.com/rorikurniadi/go-task/models"
+	"github.com/hiprice/go-task/models"
 
 	jwt "gopkg.in/appleboy/gin-jwt.v2"
 

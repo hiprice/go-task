@@ -4,7 +4,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/rorikurniadi/go-task/models"
+	"github.com/hiprice/go-task/models"
 
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"

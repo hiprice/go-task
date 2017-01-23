@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/itsjamie/gin-cors"
-	"github.com/rorikurniadi/go-task/models"
-	"github.com/rorikurniadi/go-task/resources"
+	"github.com/hiprice/go-task/models"
+	"github.com/hiprice/go-task/resources"
 
 	"github.com/gin-gonic/gin"
 )

@@ -6,7 +6,7 @@ rename config.example to config
 
 ## Installation
 ``` bash
-go get github.com/rorikurniadi/go-task
+go get github.com/hiprice/go-task
 
 go build
 
